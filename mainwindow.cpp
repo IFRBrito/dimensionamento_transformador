@@ -269,7 +269,7 @@ void MainWindow::carregar(){
 void MainWindow::on_button_mais_informacoes_clicked()
 {
 
-    QString link="http://www.joinville.udesc.br/portal/professores/saimon/materiais/Aula_6_execucao_subestacao.pdf";
+    QString link="https://github.com/IFRBrito/dimensionamento_transformador/blob/master/README.md";
     QDesktopServices::openUrl(QUrl(link));
 
 
