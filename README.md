@@ -45,3 +45,7 @@ Como podemos ver a seguir, todos os passos desse processo:
 ![](imagens/csv.png)
 
 *Exemplo do arquivo salvo em cvs.
+
+![](imagens/etapa1Opcoes.png)
+
+*Na primeira etapa o usuário tem a opção de clicar no botão mais informações e ir direto para o site do github contendo todas as informações do projeto, além disso, se o usuário errar os dados da primeira etapa ele tem a opção de limpar os dados clicando no botão "limpar dados" e, além disso, para o usuário ir para a segunda etapa do sistema só basta ele clicar no botão "Próximo".
